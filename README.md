@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[HActive Directory Home lab](https://github.com/Jefferson706/LABURL)
+[Active Directory Home lab](https://github.com/Jefferson706/LABURL)
   
   
 
